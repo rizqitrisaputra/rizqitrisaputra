@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm an Informatics student who genuinely enjoys the craft of software development. I spend most of my time writing logic in **C++** and **JavaScript**, exploring the sweet spot where backend performance meets engaging visual interactions.<br><br>- 🛠 **Focus:** System-level logic, modern web development, and interactive digital experiences.<br>- 💡 **Philosophy:** Write clean code, break things to understand how they work, and always keep building.<br>- 🎮 **Offline mode:** PC gaming, tech rabbit holes, and road trips.<br><br>Feel free to browse my repositories or drop a message to collaborate!
+<br>I'm an Informatics student who genuinely enjoys the craft of software development. I spend most of my time writing logic in **HTML**, **CSS**, **C++**, **.TS** and **JavaScript**, exploring the sweet spot where backend performance meets engaging visual interactions.<br><br>- 🛠 **Focus:** System-level logic, modern web development, and interactive digital experiences.<br>- 💡 **Philosophy:** Write clean code, break things to understand how they work, and always keep building.<br>- 🎮 **Offline mode:** PC gaming, tech rabbit holes, and road trips.<br><br>Feel free to browse my repositories or drop a message to collaborate!
 
 
 ## 🌐 Socials:
